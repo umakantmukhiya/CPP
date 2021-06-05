@@ -6,7 +6,7 @@ int main(){
     while(n != 0){
         cin >> n;
     }
-    
+
 
 
 }
